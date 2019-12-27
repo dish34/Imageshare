@@ -6,3 +6,6 @@ Pillow==5.4.1
 psycopg2==2.7.7
 pytz==2018.7
 wincertstore==0.2
+pipenv==2018.11.26
+virtualenv==16.7.9
+virtualenv-clone==0.5.3
