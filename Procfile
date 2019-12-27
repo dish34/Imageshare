@@ -1,0 +1,2 @@
+web: guincorm imageshare.wsgi
+
