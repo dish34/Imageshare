@@ -25,7 +25,7 @@ SECRET_KEY = 'p-z#(p%&ht%e6!!r-mn$+p)m^p8tem1kcz(bzq-m3#8)k()9sf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://imageshareapp.herokuapp.com]
 
 
 # Application definition
