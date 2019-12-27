@@ -1,2 +1,2 @@
-web: guincorn imageshare.wsgi
+web: gunicorn imageshare.wsgi
 
